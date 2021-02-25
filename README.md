@@ -1,9 +1,10 @@
 # prograudd_telefonica
-## Curso de Introducción a Python
+### Curso de Introducción a Python
 
-# Contenidos
+## Contenidos
 
-Clase 01
+
+Sesion 01
 
 - variables
 - tipos de datos
@@ -11,14 +12,14 @@ Clase 01
 - condicionales (if, else, elif)
 - ciclo while
 
-Clase 02
+Sesion 02
 
 - ciclo for
 - listas
 - manejo de strings
 - diccionarios
 
-Clase 03
+Sesion 03
 
 - funciones
 
