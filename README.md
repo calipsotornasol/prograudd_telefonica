@@ -15,7 +15,7 @@ Clase 02
 
 - ciclo for
 - listas
-- manejo strings
+- manejo de strings
 - diccionarios
 
 Clase 03
