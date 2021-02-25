@@ -6,6 +6,8 @@
 
 Sesion 01
 
+Clase 01, 02 y 03
+
 - variables
 - tipos de datos
 - operadores
