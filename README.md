@@ -9,19 +9,21 @@ Sesion 01
 Clase 01, 02 y 03
 
 - variables
-- tipos de datos
+- tipos de datos (int, float, string, bool)
 - operadores
-- condicionales (if, else, elif)
+- condicionales (if, elif, else)
 - ciclo while
 
 Sesion 02
 
 - ciclo for
 - listas
-- manejo de strings
+- operaciones con strings
 - diccionarios
 
 Sesion 03
 
 - funciones
+- manejo de archivos
+- otros temas tentativos: programacion modular, programacion orientada a objetos, manejo de errores, recursividad
 
