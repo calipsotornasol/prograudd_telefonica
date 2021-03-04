@@ -16,6 +16,8 @@ Clase 01, 02 y 03
 
 Sesion 02
 
+Clase 04, 05 y 06
+
 - ciclo for
 - while vs for
 - break & continue
