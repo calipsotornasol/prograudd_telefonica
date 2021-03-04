@@ -17,13 +17,17 @@ Clase 01, 02 y 03
 Sesion 02
 
 - ciclo for
+- while vs for
+- break & continue
 - listas
-- operaciones con strings
-- diccionarios
+- strings
+
 
 Sesion 03
 
+- operaciones con strings
 - funciones
 - manejo de archivos
+- matplotlib
 - otros temas tentativos: programacion modular, programacion orientada a objetos, manejo de errores, recursividad
 
