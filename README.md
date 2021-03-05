@@ -27,9 +27,8 @@ Clase 04, 05 y 06
 
 Sesion 03
 
-- operaciones con strings
+- tuplas, sets y diccionarios
 - funciones
-- manejo de archivos
-- matplotlib
-- otros temas tentativos: programacion modular, programacion orientada a objetos, manejo de errores, recursividad
+- numpy & matplotlib
+- manejo de errores
 
