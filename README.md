@@ -27,6 +27,8 @@ Clase 04, 05 y 06
 
 Sesion 03
 
+Clase 07, 08, 09 y 10
+
 - tuplas, sets y diccionarios
 - funciones
 - numpy & matplotlib
